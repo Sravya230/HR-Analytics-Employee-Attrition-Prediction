@@ -30,3 +30,13 @@ Source: [IBM HR Analytics Dataset on Kaggle](https://www.kaggle.com/datasets/pav
 
 ## Link: 
 - https://sravya40.streamlit.app/
+
+## Screenshot:
+For reference:
+ <img width="1904" height="785" alt="image" src="https://github.com/user-attachments/assets/9505184b-bdfb-4b6a-bbcb-86eadb0afead" />
+ <img width="1902" height="872" alt="image" src="https://github.com/user-attachments/assets/c8501bdb-98a0-4c06-8063-bbe78e5a7532" />
+ <img width="1899" height="872" alt="image" src="https://github.com/user-attachments/assets/269e2028-f355-4c31-a123-947dfdc9627e" />
+ <img width="1904" height="854" alt="image" src="https://github.com/user-attachments/assets/445efa9f-1afc-4a7a-839f-436ff4f0d9f7" />
+
+
+
