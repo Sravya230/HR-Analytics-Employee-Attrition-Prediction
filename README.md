@@ -26,3 +26,7 @@ This project analyzes HR data to understand employee attrition patterns and pred
   ## 📎 Dataset
 
 Source: [IBM HR Analytics Dataset on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+
+## Link: 
+- https://sravya40.streamlit.app/
